@@ -2,6 +2,7 @@
 
 This is the frontend repository for the Payment Gateway project. The frontend communicates with the backend built using Express.js and integrates with the Midtrans sandbox for payment processing.
 
+![Mock-Up.png](https://github.com/aldiandarwin/frontend-sandbox/assets/70283015/a2ffd65d-970b-4d8f-978e-e5eac9f6df24)
 
 ## Tech Stack
 

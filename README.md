@@ -19,7 +19,7 @@ Clone the repository:
 bash
 
 ```Copy code
-git clone https://github.com/your-username/payment-gateway-frontend.git
+git clone  <https://github.com/aldiandarwin/frontend-sandbox.git>
 ```
 
 cd payment-gateway-frontend
